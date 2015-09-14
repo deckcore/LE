@@ -1,0 +1,2 @@
+ <gap:plugin name="com.randdusing.bluetoothle" /> 
+  <gap:plugin name="com.randdusing.bluetoothle" source="plugins.cordova.io" /> 
